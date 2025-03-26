@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APNA_COLLEGE/APNA_COLLEGE.iml" filepath="$PROJECT_DIR$/APNA_COLLEGE/APNA_COLLEGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Aggregation/Aggregation.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Aggregation/Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Anisul_Islam.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Anisul_Islam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APNA_COLLEGE/Array/Array.iml" filepath="$PROJECT_DIR$/APNA_COLLEGE/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Class_objects/Class_objects.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Class_objects/Class_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Constructor_Overloading/Constructor_Overloading.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Constructor_Overloading/Constructor_Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Copy_Constructor/Copy_Constructor.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Copy_Constructor/Copy_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Final/Final.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APNA_COLLEGE/Function_Methods/Function_Methods.iml" filepath="$PROJECT_DIR$/APNA_COLLEGE/Function_Methods/Function_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Methods/Methods.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Parameter_Constructor/Parameter_Constructor.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Parameter_Constructor/Parameter_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Parameter_Methods/Parameter_Methods.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Parameter_Methods/Parameter_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIU/Practise_01/Practise_01.iml" filepath="$PROJECT_DIR$/UIU/Practise_01/Practise_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIU/Practise_02/Practise_02.iml" filepath="$PROJECT_DIR$/UIU/Practise_02/Practise_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APNA_COLLEGE/Sort/Sort.iml" filepath="$PROJECT_DIR$/APNA_COLLEGE/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/Static/Static.iml" filepath="$PROJECT_DIR$/Anisul_Islam/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anisul_Islam/This_Keyword/This_Keyword.iml" filepath="$PROJECT_DIR$/Anisul_Islam/This_Keyword/This_Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIU/UIU.iml" filepath="$PROJECT_DIR$/UIU/UIU.iml" />
+    </modules>
+  </component>
+</project>
