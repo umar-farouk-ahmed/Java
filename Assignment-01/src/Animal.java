@@ -4,6 +4,7 @@ public abstract class Animal {
     private String gender;
     private String habitat;
 
+    
     public void setGender(String gender){
         this.gender = gender;
     }
